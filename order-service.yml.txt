@@ -1,0 +1,3 @@
+order:
+  service:
+    message: "Welcome to Order Service"
